@@ -6,16 +6,30 @@ The analysis is based on following indicators:
 
 ![Indicators](https://github.com/samarthiith/DE_CoalPhaseOut/blob/master/indicators.png)
 
+## Capacity Factor Comparision
 
-| Kraftwerkstyp | Verfügbarkeit|
+![VRE Capacity Factors](https://github.com/samarthiith/DE_CoalPhaseOut/blob/master/indicators.png)
+
+## Availability Factors used for calculation of reliable capacity
+
+
+| Power Plant | Availability|
 | -- | -- |
-| Pumpspeicher | 1,000|
-| Biomasse	|0,830|
-| Laufwasser|	0,740|
-| Sonstige	|0,900|
-| Mineralöl|	0,845|
-| Erdgas	|0,902|
-| Steinkohle|	0,857|
-| Braunkohle|	0,857|
+| Pump Storage | 1,000|
+| Biomass	|0,830|
+| Run of River|	0,740|
+| Other	|0,900|
+| Oil|	0,845|
+| Gas	|0,902|
+| Coal|	0,857|
+| Lignite|	0,857|
 
 
+## Best and worst case assumptions w.r.t VRE (Variable Renewable Energy) Installed capacities (2023)
+
+|Installed Capacity [GW]| Worst Case | Best Case|
+|---|---|---|
+|Wind Onshore|54.7|67.7|
+|Wind Offshore|7.1|9.4|
+|PV|50.3|50.3|
+|Total|112.2|124.5|
