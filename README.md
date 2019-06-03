@@ -8,10 +8,9 @@ The analysis is based on following indicators:
 
 ## Capacity Factor Comparision
 
-![VRE Capacity Factors](https://github.com/samarthiith/DE_CoalPhaseOut/blob/master/indicators.png)
+![VRE Capacity Factors](https://github.com/samarthiith/DE_CoalPhaseOut/blob/master/RES_CF_COM.pdf)
 
 ## Availability Factors used for calculation of reliable capacity
-
 
 | Power Plant | Availability|
 | -- | -- |
@@ -19,11 +18,10 @@ The analysis is based on following indicators:
 | Biomass	|0,830|
 | Run of River|	0,740|
 | Other	|0,900|
-| Oil|	0,845|
+| Oil |	0,845|
 | Gas	|0,902|
-| Coal|	0,857|
-| Lignite|	0,857|
-
+| Coal |	0,857|
+| Lignite |	0,857|
 
 ## Best and worst case assumptions w.r.t VRE (Variable Renewable Energy) Installed capacities (2023)
 
