@@ -1,6 +1,6 @@
-# Analysing possible generation adequacy issues with Germany's Coal Phaseout
+**Based on this work an article has been published in *Energiewirtschaftliche Tagesfragen* (German). The English translation of the article can be found [here](ET_Article_eng.md).**
 
-Based on this work an article has been published in *Energiewirtschaftliche* (German). The english translation of the article can be found [here](ET_Article_eng.md).
+# Analysing possible generation adequacy issues in the context of Germany's Coal Phaseout
 
 With the announcement of coal phase out in Germany the issue of generation adequacy has become critically important. Here the data and code used for the analysis is provided.
 
