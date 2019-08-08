@@ -1,8 +1,10 @@
 # Analysing possible generation adequacy issues with Germany's Coal Phaseout
 
+Based on this work an article has been published in *Energiewirtschaftliche* (German). The english translation of the article can be found [here](ET_Article_eng.md).
+
 With the announcement of coal phase out in Germany the issue of generation adequacy has become critically important. Here the data and code used for the analysis is provided.
 
-The analysis is based on following indicators: 
+The analysis is based on following indicators:
 
 ![Indicators](https://github.com/samarthiith/DE_CoalPhaseOut/blob/master/indicators.png)
 
@@ -34,6 +36,6 @@ Capacity factors from different sources were used - [EMHIRES](https://ec.europa.
 |PV|50.3|50.3|
 |Total|112.2|124.5|
 
-Comparing the two cases, the figure below shows the distribution of the peak residual. The distribution is based on 540 MC Instances (60 weather years and 9 load years). 
+Comparing the two cases, the figure below shows the distribution of the peak residual. The distribution is based on 540 MC Instances (60 weather years and 9 load years).
 
 ![VRE Capacity Factors](https://github.com/samarthiith/DE_CoalPhaseOut/blob/master/peakDist.png)
