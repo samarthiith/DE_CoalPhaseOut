@@ -1,4 +1,6 @@
-**Based on this work an article has been published in *Energiewirtschaftliche Tagesfragen* (German). The English translation of the article can be found [here](ET_Article_eng.md).**
+**Based on this work an article has been published in *Energiewirtschaftliche Tagesfragen* (German). The article can be found [here](et_7-8_2019_Kumar.pdf).**  
+
+**The English translation of the article can be found [here](ET_Article_eng.md).**
 
 # Analysing possible generation adequacy issues in the context of Germany's Coal Phaseout
 
